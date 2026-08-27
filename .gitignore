@@ -1,0 +1,5 @@
+# Dane przesyłane przez formularz nie mogą trafić do repozytorium.
+api/data/*
+!api/data/.htaccess
+
+
