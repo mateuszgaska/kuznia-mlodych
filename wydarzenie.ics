@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Slaska Kuznia//Wydarzenie 2026//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20260925T130000-slaska-kuznia@kuzniamlodych.pl
+DTSTAMP:20260826T100000Z
+DTSTART:20260925T130000Z
+DTEND:20260925T180000Z
+SUMMARY:Śląska Kuźnia Młodych Przedsiębiorców
+LOCATION:D9 Space\, Katowice
+DESCRIPTION:Praktyczne wydarzenie dla młodych osób: biznes\, AI\, e-commerce\, marketing i networking.
+URL:https://kuzniamlodych.pl/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
+
